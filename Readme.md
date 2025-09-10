@@ -63,7 +63,7 @@ Everything can be run inside a single Colab notebook:
 
 Run the notebook directly in Colab:
 
-[Open in Colab](https://colab.research.google.com/github/yourusername/edge_ai_benchmark/blob/main/EdgeAI_Benchmark.ipynb)
+[Open in Colab](https://colab.research.google.com/github/vikesh3640/edge_ai/blob/main/EdgeAi.ipynb)
 
 ---
 
