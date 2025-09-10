@@ -50,6 +50,10 @@ Everything can be run inside a single Colab notebook:
 
 ---
 
+![Result Screenshot](./result.png)
+
+---
+
 ## Key Highlights
 - PyTorch, TorchScript, dynamic quantization  
 - Edge AI deployment pipelines  
